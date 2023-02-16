@@ -1,0 +1,470 @@
+[33mcommit 6637721be06f53cb5c629caabd4474e2b211e0a4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: shahebazkazi <er.shahebazkazi@gmail.com>
+Date:   Thu Feb 16 11:13:25 2023 +0000
+
+    22
+
+[33mcommit 1ba6658c039f449ce2b857a87e8b585d6ef8b0b7[m
+Author: shahebazkazi <er.shahebazkazi@gmail.com>
+Date:   Thu Feb 16 10:51:15 2023 +0000
+
+    add
+
+[33mcommit c7ad2690654240d5e99191d41bdd093358c73371[m
+Author: shahebazkazi <er.shahebazkazi@gmail.com>
+Date:   Thu Feb 16 10:37:06 2023 +0000
+
+    lala add
+
+[33mcommit cfee05638158e5478a5486c03fb3d326de6fb5b4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: shahebazkazi <er.shahebazkazi@gmail.com>
+Date:   Thu Feb 16 10:00:58 2023 +0000
+
+    3
+
+[33mcommit 4366eeec37af6c152c74721652e60f40f31112ee[m
+Author: EC2 Default User <ec2-user@ip-172-31-5-203.ap-south-1.compute.internal>
+Date:   Thu Feb 16 09:41:41 2023 +0000
+
+    2nd
+
+[33mcommit 0b0d35d74c62f01e1e59ae0ce00fadd1fa53ab98[m
+Author: EC2 Default User <ec2-user@ip-172-31-5-203.ap-south-1.compute.internal>
+Date:   Thu Feb 16 04:41:29 2023 +0000
+
+    adding for testing
+
+[33mcommit 26b11bc4389e2378bc89643a08478074eb973cd5[m
+Merge: 9c265e9 2b4b00e
+Author: Prajwal <prajuganesh1999@gmail.com>
+Date:   Tue Dec 14 14:32:39 2021 +0530
+
+    Merge pull request #11 from K-G-PRAJWAL/dependabot/pip/Automate-The-Boring-Stuff-with-Python/Programs/urllib3-1.26.5
+    
+    Bump urllib3 from 1.25.10 to 1.26.5 in /Automate The Boring Stuff with Python/Programs
+
+[33mcommit 9c265e9ce9118a01290466d24902283aefa9d505[m
+Merge: 19fcf9e 6c62b14
+Author: Prajwal <prajuganesh1999@gmail.com>
+Date:   Tue Dec 14 14:32:33 2021 +0530
+
+    Merge pull request #14 from K-G-PRAJWAL/dependabot/pip/Machine-Learning-Algorithms/pillow-8.3.2
+    
+    Bump pillow from 8.1.1 to 8.3.2 in /Machine Learning Algorithms
+
+[33mcommit 19fcf9e594ed831014878a990afd669fbbe1fa1c[m
+Merge: ce5c524 1b5f17e
+Author: Prajwal <prajuganesh1999@gmail.com>
+Date:   Tue Dec 14 14:32:23 2021 +0530
+
+    Merge pull request #15 from K-G-PRAJWAL/dependabot/pip/Automate-The-Boring-Stuff-with-Python/Programs/pillow-8.3.2
+    
+    Bump pillow from 8.1.1 to 8.3.2 in /Automate The Boring Stuff with Python/Programs
+
+[33mcommit ce5c5242a6c409cdd699d31d9de3a3fd37624e30[m
+Merge: 5df7005 2af77b9
+Author: Prajwal <prajuganesh1999@gmail.com>
+Date:   Tue Dec 14 14:32:15 2021 +0530
+
+    Merge pull request #16 from K-G-PRAJWAL/dependabot/pip/Random-Movie-Generator/lxml-4.6.5
+    
+    Bump lxml from 4.6.3 to 4.6.5 in /Random Movie Generator
+
+[33mcommit 5df7005c697b5690eb4e9480044ca91a911ada4f[m
+Merge: 0ccf0c7 bec87cd
+Author: Prajwal <prajuganesh1999@gmail.com>
+Date:   Tue Dec 14 14:32:06 2021 +0530
+
+    Merge pull request #17 from K-G-PRAJWAL/dependabot/pip/Automate-The-Boring-Stuff-with-Python/Programs/lxml-4.6.5
+    
+    Bump lxml from 4.6.3 to 4.6.5 in /Automate The Boring Stuff with Python/Programs
+
+[33mcommit bec87cda5a132ef07f17cd82970e2a06bc781164[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 13 20:48:37 2021 +0000
+
+    Bump lxml in /Automate The Boring Stuff with Python/Programs
+    
+    Bumps [lxml](https://github.com/lxml/lxml) from 4.6.3 to 4.6.5.
+    - [Release notes](https://github.com/lxml/lxml/releases)
+    - [Changelog](https://github.com/lxml/lxml/blob/master/CHANGES.txt)
+    - [Commits](https://github.com/lxml/lxml/compare/lxml-4.6.3...lxml-4.6.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: lxml
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2af77b99408f4e3760aa33901d1ba05666a95c9a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 13 20:47:26 2021 +0000
+
+    Bump lxml from 4.6.3 to 4.6.5 in /Random Movie Generator
+    
+    Bumps [lxml](https://github.com/lxml/lxml) from 4.6.3 to 4.6.5.
+    - [Release notes](https://github.com/lxml/lxml/releases)
+    - [Changelog](https://github.com/lxml/lxml/blob/master/CHANGES.txt)
+    - [Commits](https://github.com/lxml/lxml/compare/lxml-4.6.3...lxml-4.6.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: lxml
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1b5f17e98bb1372291d575a8fa35de2e7b5b27b3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Sep 8 02:32:15 2021 +0000
+
+    Bump pillow in /Automate The Boring Stuff with Python/Programs
+    
+    Bumps [pillow](https://github.com/python-pillow/Pillow) from 8.1.1 to 8.3.2.
+    - [Release notes](https://github.com/python-pillow/Pillow/releases)
+    - [Changelog](https://github.com/python-pillow/Pillow/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/python-pillow/Pillow/compare/8.1.1...8.3.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: pillow
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6c62b14208d1cbf40814439b97c2bc7d4f617657[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Sep 8 02:31:52 2021 +0000
+
+    Bump pillow from 8.1.1 to 8.3.2 in /Machine Learning Algorithms
+    
+    Bumps [pillow](https://github.com/python-pillow/Pillow) from 8.1.1 to 8.3.2.
+    - [Release notes](https://github.com/python-pillow/Pillow/releases)
+    - [Changelog](https://github.com/python-pillow/Pillow/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/python-pillow/Pillow/compare/8.1.1...8.3.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: pillow
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2b4b00ee9cff15ebd8b4b96c5532198b8562510b[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Jun 2 03:10:55 2021 +0000
+
+    Bump urllib3 in /Automate The Boring Stuff with Python/Programs
+    
+    Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.25.10 to 1.26.5.
+    - [Release notes](https://github.com/urllib3/urllib3/releases)
+    - [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)
+    - [Commits](https://github.com/urllib3/urllib3/compare/1.25.10...1.26.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: urllib3
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0ccf0c711b078b1b167a5fa68ff2a3c2bffe7ef9[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Thu May 27 20:08:43 2021 +0530
+
+    Cowin Vaccine Notifier
+
+[33mcommit f1deff4cd011a0797c8df0c9a6b0fa335cf08c37[m
+Merge: 17acd94 aee0210
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 9 13:02:25 2021 +0530
+
+    Merge pull request #6 from K-G-PRAJWAL/dependabot/pip/Automate-The-Boring-Stuff-with-Python/Programs/lxml-4.6.3
+    
+    Bump lxml from 4.6.2 to 4.6.3 in /Automate The Boring Stuff with Python/Programs
+
+[33mcommit 17acd94576ced0e21596c7a645f3a7b46f654d95[m
+Merge: 5eed346 e72e3ca
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 9 13:01:59 2021 +0530
+
+    Merge pull request #7 from K-G-PRAJWAL/dependabot/pip/Random-Movie-Generator/lxml-4.6.3
+    
+    Bump lxml from 4.6.2 to 4.6.3 in /Random Movie Generator
+
+[33mcommit 5eed34655f662f3c3502a802cf82e3d3ea768845[m
+Merge: 4a8c750 974d861
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 9 13:01:31 2021 +0530
+
+    Merge pull request #5 from K-G-PRAJWAL/dependabot/pip/Automate-The-Boring-Stuff-with-Python/Programs/pillow-8.1.1
+    
+    Bump pillow from 7.2.0 to 8.1.1 in /Automate The Boring Stuff with Python/Programs
+
+[33mcommit 4a8c750e76514d76c4e46e8174d862c3e8a582c1[m
+Merge: 5571aed 2086898
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 9 13:01:08 2021 +0530
+
+    Merge pull request #4 from K-G-PRAJWAL/dependabot/pip/Machine-Learning-Algorithms/pillow-8.1.1
+    
+    Bump pillow from 7.2.0 to 8.1.1 in /Machine Learning Algorithms
+
+[33mcommit e72e3caf179a3a2389ac93692128ee136219cf43[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 31 20:11:09 2021 +0000
+
+    Bump lxml from 4.6.2 to 4.6.3 in /Random Movie Generator
+    
+    Bumps [lxml](https://github.com/lxml/lxml) from 4.6.2 to 4.6.3.
+    - [Release notes](https://github.com/lxml/lxml/releases)
+    - [Changelog](https://github.com/lxml/lxml/blob/master/CHANGES.txt)
+    - [Commits](https://github.com/lxml/lxml/compare/lxml-4.6.2...lxml-4.6.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit aee02101710a202581d939eb82c792bf2019bc1b[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 31 20:02:41 2021 +0000
+
+    Bump lxml in /Automate The Boring Stuff with Python/Programs
+    
+    Bumps [lxml](https://github.com/lxml/lxml) from 4.6.2 to 4.6.3.
+    - [Release notes](https://github.com/lxml/lxml/releases)
+    - [Changelog](https://github.com/lxml/lxml/blob/master/CHANGES.txt)
+    - [Commits](https://github.com/lxml/lxml/compare/lxml-4.6.2...lxml-4.6.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 974d8616c5ddc70496d1bdf0ee58e3ba748044f3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 19 15:19:27 2021 +0000
+
+    Bump pillow in /Automate The Boring Stuff with Python/Programs
+    
+    Bumps [pillow](https://github.com/python-pillow/Pillow) from 7.2.0 to 8.1.1.
+    - [Release notes](https://github.com/python-pillow/Pillow/releases)
+    - [Changelog](https://github.com/python-pillow/Pillow/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/python-pillow/Pillow/compare/7.2.0...8.1.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 208689819a8ac35f16d2df7a2ffed9075aa33e10[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 19 15:15:41 2021 +0000
+
+    Bump pillow from 7.2.0 to 8.1.1 in /Machine Learning Algorithms
+    
+    Bumps [pillow](https://github.com/python-pillow/Pillow) from 7.2.0 to 8.1.1.
+    - [Release notes](https://github.com/python-pillow/Pillow/releases)
+    - [Changelog](https://github.com/python-pillow/Pillow/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/python-pillow/Pillow/compare/7.2.0...8.1.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 5571aedfffb0ee52b078d7327543b4edf6f0ecb6[m
+Merge: b847e2d 333f46c
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Fri Jan 8 08:43:32 2021 +0530
+
+    Merge pull request #2 from K-G-PRAJWAL/dependabot/pip/Automate-The-Boring-Stuff-with-Python/Programs/lxml-4.6.2
+    
+    Bump lxml from 4.5.2 to 4.6.2 in /Automate The Boring Stuff with Python/Programs
+
+[33mcommit b847e2dc204554a4d07bc1290e21265eed2c5e63[m
+Merge: 407e112 0484b9e
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Fri Jan 8 08:43:14 2021 +0530
+
+    Merge pull request #3 from K-G-PRAJWAL/dependabot/pip/Random-Movie-Generator/lxml-4.6.2
+    
+    Bump lxml from 4.5.2 to 4.6.2 in /Random Movie Generator
+
+[33mcommit 0484b9e63bce119b20b15b9d7599dad547fdd416[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jan 7 23:48:51 2021 +0000
+
+    Bump lxml from 4.5.2 to 4.6.2 in /Random Movie Generator
+    
+    Bumps [lxml](https://github.com/lxml/lxml) from 4.5.2 to 4.6.2.
+    - [Release notes](https://github.com/lxml/lxml/releases)
+    - [Changelog](https://github.com/lxml/lxml/blob/master/CHANGES.txt)
+    - [Commits](https://github.com/lxml/lxml/compare/lxml-4.5.2...lxml-4.6.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 333f46c344a27f7885967d1dfca245aad37a575d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jan 7 23:48:16 2021 +0000
+
+    Bump lxml in /Automate The Boring Stuff with Python/Programs
+    
+    Bumps [lxml](https://github.com/lxml/lxml) from 4.5.2 to 4.6.2.
+    - [Release notes](https://github.com/lxml/lxml/releases)
+    - [Changelog](https://github.com/lxml/lxml/blob/master/CHANGES.txt)
+    - [Commits](https://github.com/lxml/lxml/compare/lxml-4.5.2...lxml-4.6.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 407e112488ec7b9d121fae52d1828d29b0c6b94a[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Wed Oct 7 17:07:59 2020 +0530
+
+    Automate the Boring Stuff with Python Programming
+
+[33mcommit 4f357900a1a308d9749e63b47b06c8271b27afbe[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun Oct 4 11:32:01 2020 +0530
+
+    Translator Project
+
+[33mcommit 4a777bd957a8b6851b94b54e8befd14084d3b251[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Thu Oct 1 21:31:10 2020 +0530
+
+    README fix
+
+[33mcommit 30ec810ff9077e4b96a83ff3a11b26c8c4739657[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Thu Oct 1 21:29:04 2020 +0530
+
+    ML Algorithms, Random Movie Generator & Supervised Learning Projects
+
+[33mcommit e3e68e1f6b9038d01a3faffd0b0c5c13c74c265f[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sat Sep 26 09:20:37 2020 +0530
+
+    Data Engineering Intro Project
+
+[33mcommit aea6aa047f7035a0e0b059b9a61f903db01a9aa3[m
+Merge: 5df31f7 e8fce92
+Author: K G PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Thu Jul 30 08:57:41 2020 +0530
+
+    Merge pull request #1 from LCVcode/master
+    
+    Abstract methods, pep8ification, and general cleanup
+
+[33mcommit e8fce922a8c26c193921f3d13c223859bb04dcfb[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 17:22:32 2020 -0400
+
+    Comment relocation
+
+[33mcommit 92a4fd36ad0f743881f304feb2c958d59cdf1cef[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 17:21:21 2020 -0400
+
+    Setup Algorithm.algorithm() as an abstract class
+
+[33mcommit 170bf8882da10b9211a478b38dad3ae36bab3f18[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:56:26 2020 -0400
+
+    Improved commends and removed unused try/except loop
+
+[33mcommit 1402e8e168511c02ee447c33a8362ef1e00f7695[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:53:14 2020 -0400
+
+    Made areas more pythonic and applied pepification throughout
+
+[33mcommit c2893f97cf2c2ed3d87e5fd140073501d621fe82[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:42:59 2020 -0400
+
+    Removed pg.display.update() that wasn't doing anything.
+    
+    Do not need to continue updating display while a still image is being held.
+    
+    Also removed previously commended "pg.init()"
+
+[33mcommit 4cb284cfd72c8da40e7b58272ca550bcdce82e4b[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:39:34 2020 -0400
+
+    Removed unnecessary 'py.init()'
+
+[33mcommit e9c239829378d1c5ef15d3358d6279786e88b977[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:37:53 2020 -0400
+
+    Cleaned up dimension use and allowed main to take inputs
+
+[33mcommit ad07384db2087238d318efab28884f85cde1cd3d[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:24:58 2020 -0400
+
+    Added .vscode folder to .gitignore
+
+[33mcommit 27ed6098d55462b19d9eed5819bf8331ecad2864[m
+Author: LCVcode <lcvcode@gmail.com>
+Date:   Wed Jul 29 15:24:44 2020 -0400
+
+    Renamed pygame import to pg and removed unnecessary semicolons
+
+[33mcommit 5df31f7ab8cdfb09f2fdf8086b76caddaa7e2115[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sat Jul 18 18:13:09 2020 +0530
+
+    Path Finding Visualizer Project
+
+[33mcommit ccfd5e09c43a383cf41d43dfeaafcc8a253df0e0[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Mon May 11 12:47:26 2020 +0530
+
+    Add Part1 for medium
+
+[33mcommit 5d23dffec64b13eb3c9e14e69e28f1f4e068b0ab[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Mon May 11 12:30:29 2020 +0530
+
+    Update README
+
+[33mcommit c380fd5dbb52f57831877be76f4adf3e4e6a25f4[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 10 22:16:05 2020 +0530
+
+    Add Coronavirus Voice Assistant
+
+[33mcommit 32d169b8d49cd1606fe990d05871255818840597[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 10 18:21:06 2020 +0530
+
+    Update README
+
+[33mcommit 54267cf8e4285fc3c8609cb19ab65decf726c148[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun May 10 18:19:33 2020 +0530
+
+    Add Pong Game
+
+[33mcommit 31da20d4a2bae89187d69131a34fde52da3cb836[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Tue Apr 21 17:53:47 2020 +0530
+
+    Sorting Visualizer Project
+
+[33mcommit 4e3a264a4edbb7d0a6204ca552b0ca033686ab64[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun Apr 19 18:28:25 2020 +0530
+
+    Steganography Project Added
+
+[33mcommit 6a06c0eaa41ab25af63b71d0dea1f0ec7527f464[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun Apr 19 15:49:44 2020 +0530
+
+    Added GUI
+
+[33mcommit 18f393545eb4386c0b7c4c51d33ae6bcc2695330[m
+Author: K-G-PRAJWAL <prajuganesh1999@gmail.com>
+Date:   Sun Apr 19 13:57:16 2020 +0530
+
+    Sudoku Solver Project
